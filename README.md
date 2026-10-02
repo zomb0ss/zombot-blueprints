@@ -7,6 +7,7 @@ Top secret plans for the Zombot 9000, the ultimate lawn-stomping machine.
 - Stomps lawns
 - Throws vans (sometimes on purpose)
 - Has a cupholder
+- Now with 20% more evil
 
 ## Known weaknesses
 None. It is perfect. Stop asking.
